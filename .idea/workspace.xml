@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" line="72" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="559dbff7-b2af-40f9-960a-4fdd8a7f4746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="559dbff7-b2af-40f9-960a-4fdd8a7f4746" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="129">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -294,7 +292,7 @@
       <workItem from="1574760577389" duration="27820000" />
       <workItem from="1574858349714" duration="30066000" />
       <workItem from="1574932401276" duration="42746000" />
-      <workItem from="1575016756406" duration="20110000" />
+      <workItem from="1575016756406" duration="20633000" />
     </task>
     <servers />
   </component>
@@ -331,11 +329,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347027000" />
+    <option name="totallyTimeSpent" value="347550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49468085" visible="true" weight="0.22604097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24903722" />
@@ -800,8 +797,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="129">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
