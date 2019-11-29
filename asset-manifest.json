@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Social-Network/static/css/main.3c081ae7.chunk.css",
+    "main.js": "/Social-Network/static/js/main.2f27ee54.chunk.js",
+    "main.js.map": "/Social-Network/static/js/main.2f27ee54.chunk.js.map",
+    "runtime-main.js": "/Social-Network/static/js/runtime-main.69aad38d.js",
+    "runtime-main.js.map": "/Social-Network/static/js/runtime-main.69aad38d.js.map",
+    "static/css/2.cda40311.chunk.css": "/Social-Network/static/css/2.cda40311.chunk.css",
+    "static/js/2.f9cf9199.chunk.js": "/Social-Network/static/js/2.f9cf9199.chunk.js",
+    "static/js/2.f9cf9199.chunk.js.map": "/Social-Network/static/js/2.f9cf9199.chunk.js.map",
+    "static/css/3.594ee4eb.chunk.css": "/Social-Network/static/css/3.594ee4eb.chunk.css",
+    "static/js/3.e4ade7c3.chunk.js": "/Social-Network/static/js/3.e4ade7c3.chunk.js",
+    "static/js/3.e4ade7c3.chunk.js.map": "/Social-Network/static/js/3.e4ade7c3.chunk.js.map",
+    "static/css/4.7d629c34.chunk.css": "/Social-Network/static/css/4.7d629c34.chunk.css",
+    "static/js/4.1c6bbeb5.chunk.js": "/Social-Network/static/js/4.1c6bbeb5.chunk.js",
+    "static/js/4.1c6bbeb5.chunk.js.map": "/Social-Network/static/js/4.1c6bbeb5.chunk.js.map",
+    "index.html": "/Social-Network/index.html",
+    "precache-manifest.1e4534469436044f8d3ce84b69e3ca67.js": "/Social-Network/precache-manifest.1e4534469436044f8d3ce84b69e3ca67.js",
+    "service-worker.js": "/Social-Network/service-worker.js",
+    "static/css/2.cda40311.chunk.css.map": "/Social-Network/static/css/2.cda40311.chunk.css.map",
+    "static/css/3.594ee4eb.chunk.css.map": "/Social-Network/static/css/3.594ee4eb.chunk.css.map",
+    "static/css/4.7d629c34.chunk.css.map": "/Social-Network/static/css/4.7d629c34.chunk.css.map",
+    "static/css/main.3c081ae7.chunk.css.map": "/Social-Network/static/css/main.3c081ae7.chunk.css.map",
+    "static/media/avtar.jpg": "/Social-Network/static/media/avtar.d2bae984.jpg",
+    "static/media/font-awesome.min.css": "/Social-Network/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.png": "/Social-Network/static/media/logo.46fda329.png",
+    "static/media/FormsControls.module.css": "/Social-Network/static/media/wrong_icon.9353c031.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69aad38d.js",
+    "static/css/2.cda40311.chunk.css",
+    "static/js/2.f9cf9199.chunk.js",
+    "static/css/main.3c081ae7.chunk.css",
+    "static/js/main.2f27ee54.chunk.js"
+  ]
+}
