@@ -1,0 +1,66 @@
+
+.user {
+    width: 70%;
+    margin: 0 auto 20px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-radius: 0.5rem;
+    color: #aaa;
+    background-color: rgba(50, 56, 62, 0.5);
+    box-shadow: 1px 0 3px rgba(0, 0, 0, 0.6);
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    grid-template-rows: 38px 45px 24px;
+    grid-template-areas:
+            "image user-name"
+            "image status"
+            "image followed";
+    overflow: hidden;
+}
+
+.userPhoto {
+    width: 110px;
+    border-radius: 50%;
+    vertical-align: middle;
+    padding: 5px;
+}
+
+.userPhotoWrapper {
+    grid-area: image;
+    border-right: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.userName {
+    grid-area: user-name;
+    background-color: rgba(28, 30, 34, .4);
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 32px;
+}
+
+.status {
+    grid-area: status;
+    overflow: hidden;
+    background-color: silver;
+    color: #1c1e22;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.followed button {
+    grid-area: followed;
+    padding: 5px;
+    color: #1a1a1a;
+    margin: auto;
+    cursor: pointer;
+    width: 100%;
+    font-size: 22px;
+    line-height: 12px;
+    outline: 0;
+}
+
+.followed button:hover {
+    background-color: #ececec;
+    border-color: #e6e5e5;
+}

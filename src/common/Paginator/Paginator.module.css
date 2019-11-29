@@ -1,0 +1,58 @@
+
+.paginator {
+    margin: 20px auto 30px;
+    text-align: center;
+}
+
+.pageNumber {
+    background-image: linear-gradient(#8a9196, #7A8288 60%, #70787d);
+    background-repeat: no-repeat;
+    padding: 8px 13px;
+    font-size: 17px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-radius: 3px;
+    position: relative;
+}
+
+.pageNumber:hover {
+    background-image: linear-gradient(#4e5458, #565b60 40%, #5b6165);
+    border-color: #62686d;
+    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.5);
+    z-index: 10;
+}
+
+.pageNumber.selectedPage {
+    background-image: linear-gradient(#101112, #17191b 40%, #1b1e20);
+}
+
+.previous {
+    margin-right: 10px;
+}
+
+.next {
+    margin-left: 10px;
+}
+
+.next, .previous {
+    background-image: linear-gradient(#484e55, #3A3F44 60%, #313539);
+    background-repeat: no-repeat;
+    background-color: #3A3F44;
+    padding: 8px 16px;
+    border: none;
+    line-height: 1.5;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.pageNumber, .next, .previous {
+    outline: 0;
+    color: #fff;
+    cursor: pointer;
+}
+
+.previous:hover,
+.previous:focus,
+.next:hover,
+.next:focus {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#101112), color-stop(40%, #17191b), to(#1b1e20));
+}

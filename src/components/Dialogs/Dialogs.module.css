@@ -1,0 +1,9 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    grid-template-areas: "message message" "form form";
+}
+
+.messages {
+    grid-area: message;
+}

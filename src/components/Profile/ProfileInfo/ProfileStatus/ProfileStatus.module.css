@@ -1,0 +1,27 @@
+.profileStatus {
+    color: #fff;
+    width: inherit;
+    word-wrap: break-word;
+    margin-bottom: 15px;
+}
+
+.statusField span:nth-child(1) {
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.statusField span:nth-child(2) {
+    font-size: 16px;
+    color: black;
+    cursor: pointer;
+}
+
+.statusEdit input {
+    padding: 0.3rem 0.25rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    font-size: 12px;
+}
+
+
+

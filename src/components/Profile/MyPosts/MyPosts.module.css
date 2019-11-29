@@ -1,0 +1,58 @@
+.item {
+    color: darkslategrey;
+}
+
+.postsBlock {
+    padding: 10px;
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+.postsBlock h3 {
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3);
+    color: #101112;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.posts {
+    margin-top: 10px;
+}
+
+.postsBlock input {
+    padding: 0.54rem 0.25rem;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    font-size: 16px;
+}
+
+.postsBlock textarea {
+    border-radius: 0.5rem 0.5rem 0 0.5rem;
+    padding: 7px 0 0 5px;
+    min-height: 70px;
+    font-size: 16px;
+}
+
+.postsBlock textarea,
+.postsBlock button {
+    width: 50%;
+}
+
+.postsBlock button {
+    background-image: linear-gradient(#484e55, #3A3F44 60%, #313539);
+    color: #fff;
+    background-color: #3A3F44;
+    padding: 0.5rem 1rem;
+    font-size: 15px;
+    border-radius: 0.3rem;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.postsBlock button:hover,
+.postsBlock button:focus {
+    box-shadow: 0 0 0 0.3rem rgba(88, 92, 96, 0.6);
+    background-image: linear-gradient(#101112, #17191b 60%, #1b1e20);
+}

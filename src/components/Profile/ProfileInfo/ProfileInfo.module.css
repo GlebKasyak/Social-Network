@@ -1,0 +1,93 @@
+.descriptionBlock {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 240px auto;
+    grid-gap: 10px;
+    position: relative;
+}
+
+.profile, .contact {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    background-color: rgba(50, 56, 62, 0.4);
+}
+
+.contact {
+    max-width: 300px;
+}
+
+.profile {
+    text-align: center;
+    max-height: 266px;
+}
+
+.profile img {
+    max-width: 190px;
+    height: auto;
+}
+
+.profile, .contact, .profile img {
+    border-radius: 0.3rem;
+}
+
+input[type='file'] {
+    color: transparent;
+    margin-top: 15px;
+}
+
+.profileInformation {
+    color: rgba(0, 0, 0, 0.9);
+    width: 100%;
+}
+.profileInformation span{
+    margin: 5px 5px 5px 0;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.contacts, .contactsEdit, .contacts b {
+    margin-left: 10px;
+}
+
+.infoProfileEdit button {
+    background-color: #3A3F44;
+    padding: 0.5rem 1rem;
+    font-size: 15px;
+    border-radius: 0.3rem;
+    border: none;
+    margin-top: 10px;
+    width: 80px;
+}
+
+.profileInformation span,
+.infoProfileEdit button {
+    color: #fff;
+}
+
+.blockEdit {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 250px;
+    overflow: scroll;
+    max-height: 600px;
+}
+
+.blockEdit input {
+    padding: 0.3rem 0.25rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.infoProfileEdit button[disabled] {
+    background-color: #7A8288;
+    color: #fff;
+}
+
+.blockEdit textarea {
+    max-width: 200px;
+}
+

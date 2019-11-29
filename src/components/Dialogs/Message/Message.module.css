@@ -1,0 +1,36 @@
+.messages {
+    display: grid;
+    grid-template-columns: 210px auto;
+    padding: 10px;
+}
+
+.messages:nth-child(odd) {
+    background-color: rgba(58, 63, 68, .4);
+}
+
+.messages:nth-child(odd):hover {
+    background-color: rgba(58, 63, 68, .5);
+}
+
+.messages:nth-child(even):hover {
+    background-color: rgba(58, 63, 68, .2);
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialog a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.message {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.dialog, .message  {
+    padding-right: 30px;
+    width: inherit;
+    word-break: break-word;
+}
